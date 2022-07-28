@@ -1,0 +1,14 @@
+Página web desarrollado con:
+HTML5
+CSS3
+JACASCRIPT
+
+Justificación: 
+Son las tecnologías que más he usado desde mi inicio enfocado al front-end y tengo más dominio, además de que mi trabajo actual no me permitio efocarme al 100%
+en esta prueba, cabe mencionar la prueba mencionaba vue.js entre los otros frameworks de javascript, se pudo realizar con esas tecnologías sí
+solo es cuestión de documentación y con más calma si no fuera por el incoveniente mencionado (trabajo actual).
+
+La prueba decía y/o mencionaba "maquetación", por esa razón solo hice la parte visual sin el back-end de por medio, aunque igual puedo hacerlo sin problema alguno.
+
+
+
