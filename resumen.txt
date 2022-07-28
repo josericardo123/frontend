@@ -11,4 +11,37 @@ solo es cuestión de documentación y con más calma si no fuera por el incoveni
 La prueba decía y/o mencionaba "maquetación", por esa razón solo hice la parte visual sin el back-end de por medio, aunque igual puedo hacerlo sin problema alguno.
 
 
+//Instalar XAMPP preferentemente versión 7.4 en adelante
+https://www.apachefriends.org/es/download.html
+
+Una vez instalado ir a:
+    Disco local (C:)
+        xampp   
+            htdocs
+
+
+//Dentro de la siguiente ruta C:\xampp\htdocs\
+
+clonar el proyecto y luego acceder al proyecto 
+    C:\xampp\htdocs\frontend 
+
+    Dentro estará todos los archivos necesarios y usados en esta prueba
+
+//Cuando se haya hecho los pasos mencionados y para poder ver el proyecto en modo local
+    Posicionarse en el buscador de tu equipo (laptop y/o de escritorio) y escribe XAMMP
+    Dar click a la aplicación y esperar que habra una ventana del mismo
+    Dar click al botón "start" de Apache 
+
+
+    Si todo es correcto acceder a la siguiente ruta desde el navegador chrome en la parte superior de busqueda:
+    localhost/frontend
+    Ó
+    http://localhost/frontend
+
+    y visualizara todo el proyectos de prueba
+//Si se descarga el proyecto del repositoro publico como .zip o en su caso clonar el proyecto con git control de versiones
+-Asegurse de estar en la siguiente ruta:
+    C:\xampp\htdocs\
+
+
 
